@@ -56,7 +56,8 @@ Want to collaborate or just say hi? Here's how you can reach me:
 
 ## 🎨 **Screenshots**
 
-(assets/FinalView.png)  
+![Example Image](assets/FinalView.png)
+
 
 
 
